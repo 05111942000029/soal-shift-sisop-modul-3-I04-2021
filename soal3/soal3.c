@@ -207,3 +207,5 @@ int main(int argc, char *argv[])
         printf("Direktori suskses disimpan!\n");
     }
 }
+
+//white flag moment
